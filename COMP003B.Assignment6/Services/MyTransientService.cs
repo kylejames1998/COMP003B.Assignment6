@@ -15,6 +15,7 @@
         public Guid GetUniqueId()
         {
             return _uniqueId;
+
         }
     }
 }
